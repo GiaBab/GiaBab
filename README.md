@@ -8,6 +8,8 @@ my name is GiaBab.
  - Java
  - C#
  
+ 
+ [![trophy](https://github-profile-trophy.vercel.app/GiaBab=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **GiaBab/GiaBab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
