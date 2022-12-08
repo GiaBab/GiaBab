@@ -9,7 +9,7 @@ my name is GiaBab.
  - C#
  
  
- [![trophy](https://github-profile-trophy.vercel.app/GiaBab=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=GiaBab&theme=monokai&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **GiaBab/GiaBab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
